@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.proxes.eu"><img src="https://i.imgur.com/9QGner8.png" alt="PROXES"></a>
+  <a href="https://www.proxes.eu"><img src="https://i.imgur.com/WfDjv0O.png" alt="PROXES"></a>
   <br>
   Proxes • Build your website with us!
   <br>
@@ -9,7 +9,7 @@
 
 <h4 align="center">Creating forum themes and websites for the best projects.</h4>
 
-![screenshot](https://upload.proxes.eu/xOla0/XUsOgIgo53.png/raw)
+![screenshot](https://upload.proxes.eu/xOla0/laCUDaQo05.png/raw)
 
 ## Fast delivery
 Depending on the theme request, the product gets delivered in minimum 3-4 days
