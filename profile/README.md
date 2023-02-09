@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.proxes.eu"><img src="https://i.imgur.com/WfDjv0O.png" alt="PROXES"></a>
+  <a href="https://www.proxes.eu"><img src="https://i.imgur.com/uPnBmfN.png" alt="PROXES"></a>
   <br>
   Proxes • Build your website with us!
   <br>
