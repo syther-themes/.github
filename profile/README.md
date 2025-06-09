@@ -1,27 +1,20 @@
+<div align="center">
+  <a href="https://www.syther.eu"><img src="https://i.imgur.com/rguoztC.png" alt="SYTHER"></a>
+</div>
 
-<h1 align="center">
-  <br>
-  <a href="https://www.proxes.eu"><img src="https://i.imgur.com/uPnBmfN.png" alt="PROXES"></a>
-  <br>
-  Proxes • Build your website with us!
-  <br>
-</h1>
+<div align="center">
 
-<h4 align="center">Creating forum themes and websites for the best projects.</h4>
+## 🚀 Instant Themes Access  
+Order and get instant access to your selected theme right after payment—no waiting required.
 
-![screenshot](https://upload.proxes.eu/xOla0/laCUDaQo05.png/raw)
+## 💸 100% Money Back  
+Not satisfied? We offer a full refund if we don’t meet your expectations.
 
-## Fast delivery
-Depending on the theme request, the product gets delivered in minimum 3-4 days
+## 🕒 Support 24/7  
+Affordable pricing starting at just $15, with support available anytime you need it.
 
-## Quality product
-We make sure to respect all the client's requirements in order to create the best product.
+</div>
 
-## Cheap prices
-The cost of a custom theme starts at $15, the price being accessible to anyone.
-
----
-Contact the administrators
-> [contact@proxes.eu](contact@proxes.eu) |
-> GitHub [@sixxt](https://github.com/sixxt) & [S0NNIX](https://github.com/S0NNIX)
+Have any questions or need help? Contact us via
+> E-Mail: [contact@syther.eu](contact@syther.eu)
 
